@@ -5,7 +5,7 @@
  * print reverse recusion
  * Return : 0 always (success)
  */
-void _print_rev_recursion (char *s)
+void _print_rev_recursion(char *s)
 {
 	if (*s)
 	{
