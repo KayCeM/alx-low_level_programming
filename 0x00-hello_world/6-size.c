@@ -1,9 +1,8 @@
 #include  <stdio.h>
 /**
- * main - Entry point
+ * main - prints the size of various types of varibles
  *
- * Description: 'Size is not grandeur, and territory does not make a nation'
- * return: always 0 (success)
+ * Return: always 0.
  */
 int main(void)
 {
